@@ -1,2 +1,2 @@
-# resume
+# Resume
 I am a Technical Architect, with expertise in Java, Microservices, AWS, Azure and BigData. Mastering Computer Vision, Generative AI &amp; NLP...
