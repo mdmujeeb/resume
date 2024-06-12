@@ -1058,7 +1058,7 @@ a {
 }
 .cid-ufrXcqCdRZ {
   display: flex;
-  background-image: url("../../../assets/images/background12.webp");
+  background-image: url("../../../assets/images/background-850x478.webp");
 }
 .cid-ufrXcqCdRZ .mbr-overlay {
   background-color: #353535;
@@ -1069,10 +1069,10 @@ a {
 }
 @media (min-width: 768px) {
   .cid-ufrXcqCdRZ {
-    align-items: flex-end;
+    align-items: center;
   }
   .cid-ufrXcqCdRZ .row {
-    justify-content: flex-start;
+    justify-content: center;
   }
   .cid-ufrXcqCdRZ .content-wrap {
     width: 60%;
